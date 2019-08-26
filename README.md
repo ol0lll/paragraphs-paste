@@ -1,2 +1,4 @@
+# [Work in Progress] 
+
 # paragraphs-paste
-A drupal module to create multiple paragraph entities by pasting content.
+A drupal module for creating multiple paragraph entities by pasting content.
